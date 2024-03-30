@@ -3,7 +3,7 @@
 I am a Ukrainian software engineer from the US. Feel free to explore my popular repos pinned below.
 
 Current projects in progress:
-* [FastPy](https://github.com/UkrainianProgrammer/FastPy) - online service built using Fast API. Design is in progress 🧑‍🍳 
+* [WritingReact](https://github.com/UkrainianProgrammer/WritingReact) - getting back to my React days with some practice and building my new TaskApp project for task management ✔️
 
 Recently completed:
 

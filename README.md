@@ -11,3 +11,5 @@ Recently completed:
 * [Market](https://github.com/UkrainianProgrammer/Market) - a website built using Flask and sqlite3 to showcase authentication and storing items for sale in a small database.
 
 Checkout my personal [webpage](https://oleks.swoogo.com/welcome) for more info 🤌
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=UkrainianProgrammer&border_radius=4.6)](https://git.io/streak-stats)

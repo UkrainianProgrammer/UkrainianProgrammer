@@ -12,4 +12,4 @@ Recently completed:
 
 Checkout my personal [webpage](https://oleks.swoogo.com/welcome) for more info 🤌
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=UkrainianProgrammer&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=UkrainianProgrammer)](https://git.io/streak-stats)

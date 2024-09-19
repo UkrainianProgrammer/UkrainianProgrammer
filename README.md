@@ -1,6 +1,6 @@
 # Hello World 👋
 
-I am a Ukrainian software engineer from the US. Feel free to explore my popular repos pinned below.
+I am a Ukrainian software engineer. Feel free to explore my popular repos pinned below.
 
 Recently completed:
 

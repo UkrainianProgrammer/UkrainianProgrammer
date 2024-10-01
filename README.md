@@ -2,6 +2,10 @@
 
 I am a Ukrainian software engineer. Feel free to explore my popular repos pinned below.
 
+Currently in progress:
+
+* [TODO-API](https://github.com/UkrainianProgrammer/TODO-API) - API for allowing users to manage their TODO lists. Currently working on system design and database schemas.
+
 Recently completed:
 
 * [video2mp3](https://github.com/UkrainianProgrammer/video2mp3) - back-end microservice written in Python which converts videos (.mp4, .mkv, etc.) into the respective mp3 audio files extracted from the videos.

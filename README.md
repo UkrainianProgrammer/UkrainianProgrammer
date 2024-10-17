@@ -13,5 +13,3 @@ Recently completed:
 * [GitHub User Activity](https://github.com/UkrainianProgrammer/Git-Activity) - a simple CLI to fetch any GitHub user recent activity and display it in a terminal 🧑‍💻
 
 Checkout my personal [webpage](https://oleks.swoogo.com/welcome) for more info 🤌
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=UkrainianProgrammer)](https://git.io/streak-stats)

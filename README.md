@@ -13,4 +13,4 @@ Recently completed:
 * [Market](https://github.com/UkrainianProgrammer/Market) - a website built using Flask and sqlite3 to showcase authentication and storing items for sale in a small database.
 * [GitHub User Activity](https://github.com/UkrainianProgrammer/Git-Activity) - a simple CLI to fetch any GitHub user recent activity and display it in a terminal 🧑‍💻
 
-Checkout my personal [webpage](https://oleks.swoogo.com/welcome) for more info 🤌
+Checkout my personal [website](https://ukrainianprogrammer.github.io/) for more info 🤌

@@ -5,12 +5,11 @@ I am a Ukrainian software engineer. Feel free to explore my popular repos pinned
 Currently in progress:
 
 * [TODO-API](https://github.com/UkrainianProgrammer/TODO-API) - API for allowing users to manage their TODO lists. Currently working on system design and database schemas.
-* [Bookstore](https://github.com/UkrainianProgrammer/bookstore) - Bookstore web app based on React, Tailwind CSS, MongoDB, and Node. View, buy, and manage your books. Also, admins get to view website stats using custom dashboards!
 
 Recently completed:
 
 * [video2mp3](https://github.com/UkrainianProgrammer/video2mp3) - back-end microservice written in Python which converts videos (.mp4, .mkv, etc.) into the respective mp3 audio files extracted from the videos.
-* [Market](https://github.com/UkrainianProgrammer/Market) - a website built using Flask and sqlite3 to showcase authentication and storing items for sale in a small database.
+* [Bookstore](https://github.com/UkrainianProgrammer/bookstore) - Bookstore web app based on React, Tailwind CSS, MongoDB, and Node. View, buy, and manage your books. Also, admins get to view website stats using custom dashboards!
 * [GitHub User Activity](https://github.com/UkrainianProgrammer/Git-Activity) - a simple CLI to fetch any GitHub user recent activity and display it in a terminal 🧑‍💻
 
 Checkout my personal [website](https://ukrainianprogrammer.github.io/) for more info 🤌

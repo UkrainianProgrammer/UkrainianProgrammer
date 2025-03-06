@@ -5,7 +5,7 @@ I am a Ukrainian software engineer. Feel free to explore my popular repos pinned
 Currently in progress:
 
 * [TODO-API](https://github.com/UkrainianProgrammer/TODO-API) - API for allowing users to manage their TODO lists. Currently working on system design and database schemas.
-* [ExPI](https://github.com/UkrainianProgrammer/ExPI) - REST API written in TypeScript for logging data. Includes cool stuff like [TypeORM](https://typeorm.io/), [Winston](https://github.com/winstonjs/winston) & [PM2](https://pm2.keymetrics.io/)
+* [PayUp-Go](https://github.com/UkrainianProgrammer/PayUp-Go) - Full-stack application for processing online payments. My first Go project!
 
 Recently completed:
 

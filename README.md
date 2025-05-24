@@ -4,7 +4,7 @@ I am a Ukrainian software engineer. Feel free to explore my popular repos pinned
 
 Currently in progress:
 
-* [PayUp-Go](https://github.com/UkrainianProgrammer/PayUp-Go) - Full-stack application for processing online payments. My first Go project!
+* [PayUp-Go](https://github.com/UkrainianProgrammer/PayUp-Go) - Full-stack application for processing online payments. My first Go project with front-end written in JS!
 
 Recently completed:
 

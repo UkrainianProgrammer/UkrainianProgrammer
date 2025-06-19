@@ -4,7 +4,7 @@ I am a Ukrainian software engineer. Feel free to explore my popular repos pinned
 
 Currently in progress:
 
-* TBD: currently planning a new project in Go!
+* GoSocial: currently planning a new project in Go!
 
 Recently completed:
 

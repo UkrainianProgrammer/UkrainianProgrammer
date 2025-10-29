@@ -4,6 +4,7 @@ I am a Ukrainian software engineer. Feel free to explore my popular repos pinned
 
 Currently in progress:
 
+* TBD - Real-time chat application with Python back-end.
 * [GoSocial](https://github.com/UkrainianProgrammer/GoSocial): currently planning a new project in Go!
 
 Recently completed:
